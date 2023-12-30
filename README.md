@@ -1,1 +1,1 @@
-# Fizz Buzz in a single line in JavaScript!
+Fizz Buzz in a single line in JavaScript!
